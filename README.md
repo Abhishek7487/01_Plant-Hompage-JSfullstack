@@ -8,7 +8,7 @@
 
 ![Abhishek](https://img.shields.io/badge/Abhsiehk%20Patil-BCA%202%20year-orange)
 
-## Project 6 --- Live-Link
+## Project 6 --- [Live-link](https://jsfullstack-project-6.netlify.app/)
 
 - Skills gained in this project
   - Learned how to create `corousel` from `list-style`.✅
